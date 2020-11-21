@@ -3,7 +3,7 @@
 
 ## ข้อ 2
 
-- **(https://vehikl.com/)**
+- **2.1**
 
 ### Premium Partners
 
