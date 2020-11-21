@@ -1,5 +1,5 @@
 ## ข้อ 1
-<img src="public/img/mainimg.jpg" width="400"></a></p>
+<img src="public/img/ex-1.png" width="400"></a></p>
 
 ## ข้อ 2
 
