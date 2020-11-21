@@ -4,16 +4,13 @@
 ## ข้อ 2
 
 - **2.1**
+<img src="public/img/ex-2-1.png" width="400"></a></p>
 
-### Premium Partners
+- **2.2**
+<img src="public/img/ex-2-2.png" width="400"></a></p>
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
+- **2.3**
+<img src="public/img/ex-2-3.png" width="400"></a></p>
+
+- **2.4**
+<img src="public/img/ex-2-4.png" width="400"></a></p>
